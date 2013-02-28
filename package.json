@@ -3,6 +3,5 @@
 	"version": "0.1",
 	"author": "Yuri Kapulkin <yuri.kapulkin@lithium.com",
 	"description": "A set of plugin assets created for the Lithium application",
-	"components:" [
-	]
+	"components": []
 }
