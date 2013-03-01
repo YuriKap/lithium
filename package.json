@@ -51,6 +51,11 @@
             "description": "sdsfv",
             "location": "components/test.ftl",
             "name": "tetreu"
+        },
+        {
+            "description": "let's share it",
+            "location": "components/new-component.ftl",
+            "name": "this is a new component"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
