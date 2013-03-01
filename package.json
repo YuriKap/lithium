@@ -4,9 +4,15 @@
         {
             "author": "YuriKap",
             "description": "doggy doggy doggy",
+            "image": "https://raw.github.com/YuriKap/lithium/master/components/404-error-content.png",
             "location": "components/404-error-content.ftl",
-            "name": "doggy",
-	    "image": "https://raw.github.com/YuriKap/lithium/master/components/404-error-content.png"
+            "name": "doggy"
+        },
+        {
+            "author": "YuriKap",
+            "description": "This is some useful stuff",
+            "location": "components/user-guidelines-text.ftl",
+            "name": "user guidance text"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
