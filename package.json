@@ -61,6 +61,11 @@
             "description": "dfsdsf",
             "location": "components/test.ftl",
             "name": "df"
+        },
+        {
+            "description": "xzbhckc",
+            "location": "components/testmodal.ftl",
+            "name": "test678"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
