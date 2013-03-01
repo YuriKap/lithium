@@ -12,6 +12,12 @@
             "description": "bla bla bla",
             "location": "components/feedback.ftl",
             "name": "new feedback component"
+        },
+        {
+            "author": "YuriKap",
+            "description": "This is a component ",
+            "location": "components/Yuri-new-component.ftl",
+            "name": "Yuri component"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
