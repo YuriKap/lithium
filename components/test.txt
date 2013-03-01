@@ -1,0 +1,1 @@
+{"author":"Yuri Kapulkin","description":"A set of plugin assets created for the Lithium application","name":"Lenovo's components","components":[{"test":"test"}],"version":"0.1"}
