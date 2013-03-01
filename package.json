@@ -16,6 +16,11 @@
             "description": "djhsjlkdjs",
             "location": "components/testmodal.ftl",
             "name": "tsting"
+        },
+        {
+            "description": "rretregfddb",
+            "location": "components/testmodal.ftl",
+            "name": "testing2"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
