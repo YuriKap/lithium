@@ -5,19 +5,8 @@
             "author": "YuriKap",
             "description": "doggy doggy doggy",
             "location": "components/404-error-content.ftl",
-            "name": "doggy"
-        },
-        {
-            "author": "YuriKap",
-            "description": "bla bla bla",
-            "location": "components/feedback.ftl",
-            "name": "new feedback component"
-        },
-        {
-            "author": "YuriKap",
-            "description": "This is a component ",
-            "location": "components/Yuri-new-component.ftl",
-            "name": "Yuri component"
+            "name": "doggy",
+	    "image": "components/404-error-content.ftl"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
