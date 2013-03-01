@@ -6,7 +6,7 @@
             "description": "doggy doggy doggy",
             "location": "components/404-error-content.ftl",
             "name": "doggy",
-	    "image": "components/404-error-content.ftl"
+	    "image": "https://raw.github.com/YuriKap/lithium/master/components/404-error-content.png"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
