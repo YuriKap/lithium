@@ -56,6 +56,11 @@
             "description": "let's share it",
             "location": "components/new-component.ftl",
             "name": "this is a new component"
+        },
+        {
+            "description": "dfsdsf",
+            "location": "components/test.ftl",
+            "name": "df"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
