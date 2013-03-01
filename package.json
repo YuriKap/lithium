@@ -91,6 +91,11 @@
             "description": "sadfasdf asdf",
             "location": "components/studiohub.ftl",
             "name": "aiososdfa;jfdsap;"
+        },
+        {
+            "description": "this is for you",
+            "location": "components/feedback.ftl",
+            "name": "admin feedback"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
