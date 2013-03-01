@@ -76,6 +76,11 @@
             "description": "dggfd",
             "location": "components/testmodal.ftl",
             "name": "df"
+        },
+        {
+            "description": "rrrh",
+            "location": "components/testmodal.ftl",
+            "name": "ret"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
