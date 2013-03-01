@@ -86,6 +86,11 @@
             "description": "hhg",
             "location": "components/test.ftl",
             "name": "gtr"
+        },
+        {
+            "description": "sadfasdf asdf",
+            "location": "components/studiohub.ftl",
+            "name": "aiososdfa;jfdsap;"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
