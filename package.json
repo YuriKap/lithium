@@ -41,6 +41,11 @@
             "description": "fdsfsfs",
             "location": "components/testmodal.ftl",
             "name": "dsfdsfdsf"
+        },
+        {
+            "description": "sfdsfd",
+            "location": "components/test.ftl",
+            "name": "sfdsf"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
