@@ -1,10 +1,6 @@
 {
     "author": "Yuri Kapulkin",
-    "components": [{
-        "description": "doggy doggy doggy",
-        "location": "components/404-error-content.ftl",
-        "name": "doggy"
-    }],
+    "components": [],
     "description": "A set of plugin assets created for the Lithium application",
     "name": "Lenovo's components",
     "version": "0.1"
