@@ -71,6 +71,11 @@
             "description": "dsfg",
             "location": "components/test.ftl",
             "name": "dsff"
+        },
+        {
+            "description": "dggfd",
+            "location": "components/testmodal.ftl",
+            "name": "df"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
