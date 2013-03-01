@@ -81,6 +81,11 @@
             "description": "rrrh",
             "location": "components/testmodal.ftl",
             "name": "ret"
+        },
+        {
+            "description": "hhg",
+            "location": "components/test.ftl",
+            "name": "gtr"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
