@@ -1,11 +1,19 @@
 {
     "author": "Yuri Kapulkin",
-    "components": [{
-        "author": "YuriKap",
-        "description": "doggy doggy doggy",
-        "location": "components/404-error-content.ftl",
-        "name": "doggy"
-    }],
+    "components": [
+        {
+            "author": "YuriKap",
+            "description": "doggy doggy doggy",
+            "location": "components/404-error-content.ftl",
+            "name": "doggy"
+        },
+        {
+            "author": "YuriKap",
+            "description": "bla bla bla",
+            "location": "components/feedback.ftl",
+            "name": "new feedback component"
+        }
+    ],
     "description": "A set of plugin assets created for the Lithium application",
     "name": "Lenovo's components",
     "version": "0.1"
