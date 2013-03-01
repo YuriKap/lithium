@@ -26,6 +26,11 @@
             "description": "Lithium lithium lithium",
             "location": "components/jacy.ftl",
             "name": "This is a new name for the component"
+        },
+        {
+            "description": "rretregfddb",
+            "location": "components/testmodal.ftl",
+            "name": "testing2"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
