@@ -13,6 +13,12 @@
             "description": "This is some useful stuff",
             "location": "components/user-guidelines-text.ftl",
             "name": "user guidance text"
+        },
+        {
+            "author": "YuriKap",
+            "description": "New components are awesome",
+            "location": "components/test.ftl",
+            "name": "This is a test component"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
